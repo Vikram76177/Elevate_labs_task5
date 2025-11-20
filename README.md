@@ -25,10 +25,10 @@ Seaborn	Advanced statistical plots
 Jupyter Notebook	Interactive development
 📁 Repository Structure
 📦 Task-5-EDA
-├── train.csv                # Dataset (Titanic)
-├── Task5_EDA.ipynb          # Jupyter Notebook with step-by-step EDA
-├── EDA_Report.pdf           # Final PDF report (visual + textual insights)
-└── README.md                # Project documentation
+├── train.csv
+├── Task5_EDA.ipynb
+├── EDA_Report.pdf
+└── README.md
 
 🧼 Data Cleaning Summary
 
